@@ -22,7 +22,7 @@ public class ALMController {
 	
 	@GetMapping("/hello")
 	public String hello() {		
-		return "Metaswitch IMS Core";
+		return "Metaswitch IMS and MDM Core";
 	}
 	
 }
